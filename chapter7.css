@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.box1 {
+	height: 400px;
+	width: 100%;
+	background-image: url(chapter7/mv.jpg);
+	background-position: bottom;
+	background-size: cover;
+}
+.box1 p {
+	padding: 20px;
+	font-family: YuGothicM;
+	font-weight: bold;
+	color: gray;
+	font-size:28px;
+}
+main {
+	width: 840px;
+	margin: 50px auto;
+}
+.site1 {
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid gray;
+}
+.site2 {
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid gray;
+}
+.site3 {
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid gray;
+}
+.site4 {
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid gray;
+}
